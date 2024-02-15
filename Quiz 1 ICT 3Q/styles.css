@@ -1,0 +1,35 @@
+body {
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrevqMxupYjGIJzG8PgVGS8BZo-5zOO_dEA&usqp=CAU);
+	background-position: center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size:80px;
+	font-family: 'Zombie Control Expnaded', sans-serif;
+}
+
+h2 {
+	font-size:30px;
+	font-family: 'Stoehr numbers', sans-serif;
+}
+strong {
+	font-size:23px;
+	font-family: 'Young Frankenstein', sans-serif;
+}
+
+.reviewtext {
+	font-family: 'Romanicum', sans-serif;
+	border-width: 8px;
+	margin-left: 300px;
+	margin-right: 300px;     
+}
+
+img 
+{
+	width: 300px;
+	height:400px;
+}
+
